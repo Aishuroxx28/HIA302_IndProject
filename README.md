@@ -1,6 +1,6 @@
 # Individual project HIA302
  
-To access horse-colic datasets and understand a way how to replace and reduce missing values in the dataset using Python programming to avoid data discrepancy.
+To access horse-colic datasets and understand a method on how to replace and reduce missing values in the dataset using Python programming to avoid data discrepancy.
 1. To demonstrate ways to convert the horse-colics.txt file into csv file.
 2. To replace missing values ('?') with a 'NaN' value in a loaded dataset using python code and save the dataset as horse-colic-with-NaN.csv file.
 3. Rename all the header columns following horse.colic.names.txt file with not more than 10 characters and save the dataset as horse-colic-with-title.csv.
